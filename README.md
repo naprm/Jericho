@@ -60,6 +60,7 @@ Jericho requires a Telegram bot to send login alerts and images.
 - <a href="https://core.telegram.org/bots/tutorial">Guide to create a Telegram bot</a>  
 - <a href="https://gist.github.com/nafiesl/4ad622f344cd1dc3bb1ecbe468ff9f8a#how-to-get-telegram-bot-chat-id">Guide to obtain a Telegram Chat ID</a>  
   
+---
 
 ## ⚙️ Setup
 
@@ -173,6 +174,8 @@ keyring.set_password("Jericho", "CHAT_ID", "your_telegram_chat_id")
 >- Disable auto-stop on long runtime
 >- Allow task to run on demand
 >- Add timeout for this task in the task scheduler
+
+---
 
 ## 🛠 Modifications
 
