@@ -68,8 +68,6 @@ These steps need to be done **once** before running the app or creating the `.ex
 
 > **Note: Re-run the respective commands below to update any credentials**
 
----
-
 ### 1️⃣ Set Login Password
 
 ```python
